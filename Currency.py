@@ -12,3 +12,6 @@ print(df.nsmallest(1, ['Price']))
 print(df.nlargest(1, ['Price']))
 print (Total2)
 print (n)
+
+
+print(n)
